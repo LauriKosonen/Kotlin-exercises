@@ -21,25 +21,25 @@
             android:id="@+id/cityTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="City" />
 
         <TextView
             android:id="@+id/condTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="Condition" />
 
         <TextView
             android:id="@+id/tempTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="Temperature" />
 
         <TextView
             android:id="@+id/timeTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="Time" />
 
     </LinearLayout>
 

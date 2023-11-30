@@ -22,7 +22,7 @@ import java.time.format.DateTimeFormatter
 class WeatherAppWidget : AppWidgetProvider() {
 
     // example call is : https://api.openweathermap.org/data/2.5/weather?q=Jyväskylä&APPID=YOUR_API_KEY&units=metric
-    val API_LINK: String = "https://api.openweathermap.org/data/2.5/weather?q=Jyväskylä&APPID=ef8b617a78125996451a0d095d1b4907&units=metric"
+    val API_LINK: String = "https://api.openweathermap.org/data/2.5/weather?q=Jyväskylä&APPID=API_KEY&units=metric"
     val API_ICON: String = "https://openweathermap.org/img/w/"
     val API_KEY: String = "ef8b617a78125996451a0d095d1b4907"
     override fun onUpdate(
@@ -56,7 +56,7 @@ class WeatherAppWidget : AppWidgetProvider() {
     {
 
         // URL to load forecast
-        val url = "$API_LINK$city&APPID=$API_KEY&units=metric"
+        val url = "$API_LINK?q=$city&APPID=$API_KEY&units=metric"
 
         // continue coding here...
         // JSON object request with Volley
@@ -101,7 +101,7 @@ class WeatherAppWidget : AppWidgetProvider() {
 
                 } catch (e: Exception) {
                     e.printStackTrace()
-                    Log.d("WEATRHER", "***** error: $e")
+                    Log.d("WEATHER", "***** error: $e")
                 }
             },
             { error -> Log.d("ERROR", "Error: $error") })
