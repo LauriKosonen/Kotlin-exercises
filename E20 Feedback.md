@@ -1,4 +1,4 @@
-#How you feel the content of the course?
+# How you feel the content of the course?
 
 Kurssilla käytiin läpi oleellisimmat asiat android sovellusten kehittämisestä.
 
@@ -7,7 +7,7 @@ Kurssilla käytiin läpi oleellisimmat asiat android sovellusten kehittämisest�
  Jäin kuitenkin kaipaamaan tiivistetympää materiaalia.
 
 
-#How you feel the course web site and materials in GitLab/LabraNet?
+# How you feel the course web site and materials in GitLab/LabraNet?
 
 Kurssilla ei ollut juuri omaa materiaalia, vaan kaikki tieto piti etsiä ulkoisilta sivuilta. 
 
@@ -15,12 +15,12 @@ Pidän enemmän siitä että kursseilla on kootut materiaalit josta löytyy kaik
 
 Android developers sivuilta oli välillä vaikeaa löytää ratkaisuja tehtävissä törmäämiini ongelmiin.
 
-#Is the material suitable for a virtual study? If not, what should be improved?
+# Is the material suitable for a virtual study? If not, what should be improved?
 
 Materiaalia on riittävästi (ehkä vähän turhankin paljon), mutta se soveltuu silti hyvin etäopiskeluun.
 
 
-#How about workload (low, ok, too much)?
+# How about workload (low, ok, too much)?
 
 Tehtäviä ja materiaalia oli paljon. Olisin odottanut että tähän kurssiin käyttämälläni ajalla olisin saanut hieman paremman arvosanan. 
 
@@ -28,7 +28,7 @@ Tämä tuntui selkeästi työläimmältä kurssiltani tänä syksynä.
 
 Työläisyyteen vaikutti tehtävien määrän lisäksi myös se että kaikista tehtävistä ei saanut pisteitä (Unit 1-5).
 
-#How about evaluation (exercises and research assignment)?
+# How about evaluation (exercises and research assignment)?
 
 En tehnyt harjoitustehtävää koska käytin kaiken aikani tehtävien tekemiseen. 
 
@@ -39,13 +39,11 @@ Ehkä tehtävien määrä olisi ollut ok jos kaikki tehtävät tekemällä olisi
 
 
 
-#Give a rating number from 1-5 (5 == excellent) to this course at overal
+# Give a rating number from 1-5 (5 == excellent) to this course at overal
 
 3
 
-
-
-#Self evaluation
+# Self evaluation
 
 Tuntuu että opin kurssin aikana oleellisimmat asiat android sovellusten kehittämisestä, mutta opittavaakin jäi silti melko paljon, varsinkin kurssin loppupään aihealueista.
 
